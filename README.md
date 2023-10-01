@@ -41,7 +41,7 @@ python main.py
 ```
 
 # Examples
-![IMAGE EXAMPLE](https://github.com/x4leqxinn/image-to-ascii-script/blob/main/app/examples/IMG_VERSION.png)
+![IMAGE EXAMPLE](https://github.com/x4leqxinn/image-to-ascii-script/blob/main/app/examples/IMG_VERSION.jpeg)
 ![ASCII RESULT](https://github.com/x4leqxinn/image-to-ascii-script/blob/main/app/examples/ASCII_VERSION.png)
 
 
